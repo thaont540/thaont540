@@ -1,16 +1,99 @@
-### Hi there 👋
+###   Hello You! Yes, that's youu :yellow_heart:
+<img alt="GIF" src="https://i.imgur.com/ScpOo3I.gif" width = 500/>
 
-<!--
-**thaont540/thaont540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## My Skills :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+
+- **Web Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+## Currently Working && Learning :beginner:
+
+- **Web Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+## Some work. :smiley:
+
+<p>
+<ul>
+<li>
+<a href="https://thaont540.github.io/node_deploy/" target="_blank">Laravel deployer</a>
+</li>
+<li>
+<a href="https://thaont540.github.io/laravel-log-viewer/" target="_blank">Laravel log viewer</a>
+</li>
+</ul>
+</p>
+
